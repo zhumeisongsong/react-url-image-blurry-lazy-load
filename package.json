@@ -1,6 +1,6 @@
 {
-  "name": "react-url-image-downloader",
-  "version": "1.0.2",
+  "name": "react-url-image-blurry-lazy-load",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhumeisongsong/react-url-image-downloader.git"
+    "url": "git+https://github.com/zhumeisongsong/react-url-image-blurry-lazy-load.git"
   },
   "author": "Zhumei Song",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhumeisongsong/react-url-image-downloader/issues"
+    "url": "https://github.com/zhumeisongsong/react-url-image-blurry-lazy-load/issues"
   },
-  "homepage": "https://github.com/zhumeisongsong/react-url-image-downloader#readme",
+  "homepage": "https://github.com/zhumeisongsong/react-url-image-blurry-lazy-load#readme",
   "devDependencies": {
     "@types/react": "^17.0.4",
     "css-loader": "^5.2.4",
