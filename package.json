@@ -1,0 +1,41 @@
+{
+  "name": "react-url-image-downloader",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --mode development",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhumeisongsong/react-url-image-downloader.git"
+  },
+  "author": "Zhumei Song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhumeisongsong/react-url-image-downloader/issues"
+  },
+  "homepage": "https://github.com/zhumeisongsong/react-url-image-downloader#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.4",
+    "css-loader": "^5.2.4",
+    "html-webpack-plugin": "^5.3.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^9.1.1",
+    "typescript": "^4.2.4",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "resolutions": {
+    "styled-components": "^5"
+  }
+}

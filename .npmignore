@@ -1,0 +1,5 @@
+src
+example
+.gitignore
+tsconfig.json
+webpack.config.js
